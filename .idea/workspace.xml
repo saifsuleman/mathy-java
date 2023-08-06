@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="333422e1-fc78-4c67-902d-e3139aa72992" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinScripting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/ast/ASTBinaryNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/ast/ASTCallNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/ast/ASTIdentifierNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/ast/ASTNumberNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/ast/AbstractSyntaxTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/ast/MathFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/compiler/Compiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/evaluator/Evaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/evaluator/EvaluatorOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/lexer/Lexer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/parser/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/token/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/token/TokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/compiler/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/compiler/Compiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/saifs/mathy/evaluator/Evaluator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +84,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -173,7 +151,7 @@
       <updated>1691304784977</updated>
       <workItem from="1691304786088" duration="99000" />
       <workItem from="1691304899893" duration="11651000" />
-      <workItem from="1691317134449" duration="1570000" />
+      <workItem from="1691317134449" duration="6158000" />
     </task>
     <servers />
   </component>
